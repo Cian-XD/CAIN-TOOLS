@@ -1,4 +1,3 @@
-![Screenshot_2023-12-31-04-37-58-199_com termux](https://github.com/Cian-XD/CAIN-TOOLS/assets/153116104/01d4f298-4d71-45a9-80ee-1352ef3b6e05)
 
 ### HOW TO INSTALL THE SCRIPT:
  download the termux android application [here!](https://apkcombo.com/termux/com.termux/download/apk), then open the application, type the command below..
