@@ -18,8 +18,7 @@ download the termux android application [here!](https://apkcombo.com/termux/com.
  ```
   $ cd CAIN-TOOLS
   $ git pull
-  $ chmod 777 CAIN
-  $ ./CAIN
+  $ python run.py
 ```
 
 ##### info:
